@@ -19,3 +19,7 @@ To start using the Note-Taker application, follow these steps:
     3.	Create a Note: On the notes page, enter a title and the content of your note.
     4.	Save and View Notes: After saving, your notes will appear in the left-hand column. Click on any note to view its details.
     5.	Delete Notes: Use the trash icon next to each note to delete it.
+
+Github Repository: https://github.com/ekookten/Note-Taker
+
+Deployment Link: https://note-taker-8sin.onrender.com/
